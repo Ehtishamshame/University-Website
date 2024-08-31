@@ -315,3 +315,17 @@ h3{
     cursor: pointer;
     padding: 18px 0;
 }
+@media(max-width: 700px){
+    
+    .row{
+        display: inline;
+    }
+    .course-col{
+        width: 100%;
+        display: block;
+       
+    }
+    .course{
+        padding-left: 0px;
+    }
+}
